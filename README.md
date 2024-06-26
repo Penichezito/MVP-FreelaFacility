@@ -5,7 +5,7 @@ Introdução: Bem-vindos à apresentação do meu Projeto MVP de um SAAS organiz
 
 Especificidades do MVP:
 
-#***Arquitetura baseada em Microsserviços:***
+# ***Arquitetura baseada em Microsserviços:***
 
 Optamos por uma arquitetura baseada em microsserviços para garantir escalabilidade e flexibilidade no desenvolvimento.
 + API Python e Flask: Utilizamos Python e o framework Flask para a criação de APIs robustas e eficientes.
